@@ -1,0 +1,7 @@
+{
+  "name": "Body Evolution | Professional Strength Training Gym",
+  "description": "Premium fitness and strength training gym in Pakistan powered by Matrix equipment. Transform your body with expert trainers.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
